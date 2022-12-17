@@ -1,0 +1,29 @@
+.carousel-container{
+.swiper-slide {
+  text-align: center;
+  font-size: 18px;
+  color: rgb(73, 65, 65);
+  background-color: #fff;
+  margin-top: 100px;
+  margin-bottom: 100px;
+  height: 200px;
+  align-items: center;
+  padding-top: 50px;
+}
+.swiper-slide:hover {
+  background-color: rgb(54, 54, 119);
+  color: #fff;
+}
+
+.slide {
+  display: block;
+
+  .slide-icon {
+    font-size: 50px;
+    color: rgb(54, 54, 119);
+  }
+  .slide-icon:hover {
+    color: #fff;
+  }
+}
+}

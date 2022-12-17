@@ -1,0 +1,29 @@
+.swiper-slide {
+  text-align: center;
+  font-size: 18px;
+  color: rgb(73, 65, 65);
+  background-color: #fff;
+  margin-top: 100px;
+  margin-bottom: 100px;
+  height: 100px;
+
+  align-items: center;
+  padding-top: 50px;
+}
+
+.box-1 {
+  padding-top: 25px;
+  font-size: 12px;
+  .flag {
+    width: 50px;
+
+    color: rgb(54, 54, 119);
+  }
+
+  .con-name {
+    font-weight: bold;
+  }
+  .vertical-line {
+    height: 20px;
+  }
+}

@@ -1,0 +1,25 @@
+.cards {
+  margin-top: 500px;
+
+  .card-container {
+    margin-top: 15px;
+
+    h5 {
+      text-align: center;
+      padding-top: 15px;
+    }
+
+    .cards-btn {
+      padding: 14px 16px;
+      color: #fff;
+      border: none;
+      background-color: rgb(45, 45, 124);
+      // margin-bottom: 50px;
+      width: 150px;
+      height: 45px;
+      align-items: center;
+      margin-left: 120px;
+      margin-right: 120px;
+    }
+  }
+}

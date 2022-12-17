@@ -1,0 +1,96 @@
+#mySidenav a {
+  position: absolute;
+  right: -80px;
+  transition: 0.3s;
+  padding: 10px;
+  margin-top: 200px;
+  width: 150px;
+  text-decoration: none;
+  font-size: 20px;
+  color: white;
+  border-radius: 50px 0px 0px 50px;
+}
+.img-icons {
+  width: 50px;
+  border-radius: 50%;
+}
+
+#mySidenav a:hover {
+  right: 0;
+}
+
+#fb {
+  top: 20px;
+  background-color: #fff;
+}
+
+#lk {
+  top: 80px;
+  background-color: #fff;
+}
+
+#yb {
+  top: 140px;
+  background-color: #fff;
+}
+#tw {
+  top: 200px;
+  background-color: #fff;
+}
+#in {
+  top: 200px;
+  background-color: #fff;
+}
+
+// .icons{
+//     float: right;
+//     margin-top: 80px;
+
+//  .icon{
+//     width: 150px;
+//     height: 40px;
+//     background-color: #FFF;
+//      margin-top: 20px;
+//     .icon-class{
+//         // border-top-left-radius: 50%;
+//         border:none;
+//         border-radius: 50%;
+//         width: 50px;
+//         height: 50px;
+//         background-color: #FFF;  position: absolute;
+//         left: -80px;
+//         transition: 0.3s;
+//         padding: 15px;
+//         width: 100px;
+//         text-decoration: none;
+//         font-size: 20px;
+//         color: white;
+//         border-radius: 0 5px 5px 0;
+
+//         .icon-img{
+//             border-radius: 50%;
+//             width: 30px;
+//             height: 30px;
+
+//           }
+
+//     }
+
+//  }
+
+// }
+
+// .sliding-pane{
+//     height: 5px;
+//     margin-top: 200px;
+
+//     border-radius: 20%;
+//     background-color: red;
+// }
+// .facebook-icon{
+//    color: rgb(2, 2, 165);
+//    width: 30px;
+//    height: 30px;
+//    transform: 'rotate(90deg)';
+
+// }

@@ -1,0 +1,40 @@
+.navbar-2 {
+  .background {
+    background-color: #2d373e;
+  }
+
+  .navbar-expand-lg .navbar-nav .nav-link {
+    color: #fff;
+    font-size: 16px;
+    font-family: sans-serif;
+    text-decoration: none solid rgb(67, 58, 52);
+
+    .nav-link:hover {
+      color: red;
+    }
+  }
+
+  .bell-icon {
+    color: red;
+    width: 20px;
+    height: 20px;
+  }
+  .color-codes {
+    display: flex;
+    #color-1,
+    #color-2,
+    .color-3 {
+      width: 20px;
+      height: 20px;
+    }
+    #color-1 {
+      background-color: #ff531a;
+    }
+    #color-2 {
+      background-color: #ff1a1a;
+    }
+    #color-3 {
+      background-color: #802b2b;
+    }
+  }
+}

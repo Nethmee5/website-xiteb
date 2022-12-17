@@ -1,0 +1,28 @@
+.announcement-section {
+  margin-top: 100px;
+  background-color: rgb(201, 194, 194);
+  margin-bottom: 100px;
+  .heading {
+    text-align: center;
+    padding-top: 25px;
+    color: rgb(33, 33, 133);
+  }
+  .container {
+    margin-top: 100px;
+    margin-bottom: 100px;
+
+    .card-container {
+      display: flex;
+      padding-top: 10px;
+      margin-bottom: 100px;
+      padding-top: 20px;
+
+      .title {
+        background-color: #fff;
+        padding-top: 200px;
+        font-size: 15px;
+        width: 200px;
+      }
+    }
+  }
+}

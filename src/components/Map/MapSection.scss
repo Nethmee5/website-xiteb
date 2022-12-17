@@ -1,0 +1,19 @@
+.map-section-container {
+  margin-top: 100px;
+  .google-map-code {
+    float: left;
+    margin-top: 100px;
+  }
+  .locations {
+    margin-top:80px;
+    float: right;
+    text-align: center;
+    font-family: Montserrat, sans-serif;
+    font-size: 20px;
+    font-weight: 100;
+    .number {
+      font-weight: bold;
+    }
+  }
+ 
+}

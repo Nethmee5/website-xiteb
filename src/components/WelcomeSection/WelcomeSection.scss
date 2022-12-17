@@ -1,0 +1,29 @@
+.video-section {
+  float: right;
+  margin-right: 100px;
+}
+
+.text-block {
+  position: absolute;
+  width: 700px;
+  height: 250px;
+  background-color: #fff;
+  color: #000;
+  margin-top: 80px;
+  margin-left: 100px;
+  padding: 50px;
+  align-content: center;
+  text-align: justify;
+  font-family: sans-serif;
+  border-radius: 10px;
+
+  h2 {
+    font-weight: bold;
+    font-size: 25px;
+    font-weight: 600;
+  }
+  .paragraph {
+    font-size: 20px;
+    padding-top: 30px;
+  }
+}
